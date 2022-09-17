@@ -1,0 +1,25 @@
+.Top{
+    text-align: center;
+    background-color:rgb(52, 52, 54, 0.5);
+    margin:auto;
+    padding:100px 80px 80px 80px;
+    width:75%;
+    border-radius: 20px;
+    
+}
+.xyz{
+    font-family: papyrus;
+    font-size: x-large;
+    font-size: 40px;
+}
+.parent{
+    margin:1px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding:80px 60px;
+    height:80vh;
+}
+.Heading{
+    font-size: 40px;
+}

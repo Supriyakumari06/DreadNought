@@ -1,0 +1,44 @@
+.About{
+    padding:1rem;
+    text-align:center;
+    font-family: cursive;
+    color: rgb(43, 25, 2);
+    font-size: xx-large;
+    /* padding-left: 10rem;
+    padding-right: 10rem; */
+}
+.about{
+    padding:50px;
+    text-align:center;
+    font-family: cursive;
+    color: rgba(14, 8, 135, 0.9);
+    font-size: x-large;
+    padding-top: 20px;
+    background-color: rgba(159, 173, 177, 0.9);
+    /* border-color: rgb(255, 219, 196,0.8); */
+    padding:3rem;
+    margin:2rem;
+    margin-top:1rem ;
+    border-radius: 2rem;
+    border-color: rgb(190, 169, 122,0.3);
+    border-width: 1.5px;
+    border-style: solid
+}
+.about2{
+    background-color: rgba(218, 215, 209, 0.1);
+    /* border-color: rgb(255, 219, 196,0.8); */
+    padding:4rem;
+    margin:0.5em;
+    border-radius: 2rem;
+    border-color: rgb(190, 169, 122,0.3);
+    border-width: 1.5px;
+    border-style: solid;
+}
+.tag{
+    background-color: rgb(18, 45, 67);
+    color: rgba(218, 215, 209, 0.9);
+    margin:5px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 5px 5px grey;
+}
